@@ -17,3 +17,6 @@ NSMC에 대해 띄어쓰기 교정 및 형태소 분석을 완료한 데이터�
 
 ### model
 ![model](./images/model.png)
+
+### References
+- [Naver AI hackathon 2018](https://github.com/moonbings/naver-ai-hackathon-2018/tree/master/movie) : 자소 단위 분리를 위해 사용
